@@ -1,0 +1,1 @@
+/Users/alex_chiang/Documents/GitHub/RegressionAnalysis-Annual-Return-and-Financial-Index/Origin_Data/stock_price.csv filter=lfs diff=lfs merge=lfs -text
