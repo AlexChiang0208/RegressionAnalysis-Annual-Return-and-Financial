@@ -42,4 +42,3 @@ result_dummy = reg_model_dummy.fit()
 result_dummy.summary()
 
 
-
