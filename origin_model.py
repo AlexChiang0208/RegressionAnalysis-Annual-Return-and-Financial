@@ -3,7 +3,7 @@ import os
 import statsmodels.api as sm
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
-os.chdir("/Users/alex_chiang/Documents/GitHub/RegressionAnalysis-Annual-Return-and-Financial/")
+os.chdir("/Users/alex_chiang/Documents/GitHub/RegressionAnalysis-Annual-Return-and-Financial-Index/")
 path = os.getcwd()
 
 # Only Continuous Variable
